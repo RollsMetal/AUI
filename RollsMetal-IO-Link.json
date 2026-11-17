@@ -1,0 +1,19 @@
+[
+    {
+        "id": "8108b5b734b7a0ca",
+        "type": "debug",
+        "z": "0771781c5135a383",
+        "name": "Debug - Erros de comunicação",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "error",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2190,
+        "y": 700,
+        "wires": []
+    }
+]
